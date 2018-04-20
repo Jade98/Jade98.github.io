@@ -19,6 +19,7 @@ table {
     transition: width 2s;
 }
 
+
 p {
     text-indent: 20px;
 }
@@ -60,7 +61,13 @@ h3:hover {
 }
 
 img {
+<<<<<<< HEAD
     
+=======
+    width:200px;
+    height:200px;
+    background: yellow; 
+>>>>>>> 7dc04dea03dd7728d3cb6f21e867124c0cd2c864
     transition: width 2s, height 2s;
     -moz-transition: width 2s, height 2s, -moz-transform 2s;
     /* Firefox 4 */
