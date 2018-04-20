@@ -60,7 +60,8 @@ h3:hover {
 }
 
 img {
-    
+    width:200px;
+    height:200px;
     transition: width 2s, height 2s;
     -moz-transition: width 2s, height 2s, -moz-transform 2s;
     /* Firefox 4 */
